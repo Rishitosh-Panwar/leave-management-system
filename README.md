@@ -1,5 +1,5 @@
 Leave Management System
-A React-based Leave Management System built for Penthara Technologies assignment. This application helps manage employee leave requests with separate interfaces for employees and admins.
+A React-based Leave Management System built. This application helps manage employee leave requests with separate interfaces for employees and admins.
 
 Features:
 Employee Portal: Apply for leave, view leave history, check leave balance
